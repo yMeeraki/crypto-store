@@ -1,0 +1,10 @@
+/*  Base */
+@import "./src/styles/base/_reset.css";
+@import "./src/styles/base/_variables.css";
+
+/* Vendors */
+@import "./src/styles/components/_vendors.css";
+
+/* Componentss */
+@import "./src/styles/components/_container.css";
+@import "./src/styles/components/_header.css";

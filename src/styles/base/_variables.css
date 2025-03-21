@@ -1,0 +1,33 @@
+:root {
+
+    
+    --base-font-percentage: 62.5%;
+    --base-font-size: 1.6rem;
+
+    /* Color Pallete */
+    --primary-color: #101c2d;
+    --secondary-color: #fff;
+
+    /* Container */
+    --header-width:20%;
+    --main-content-width:80%;
+
+    /* Header */
+    --header-padding: 4rem;
+    --logo-width: 34%;
+    --navigation-width:66%;
+}
+
+
+/* 
+Primary Background: 
+#101c2d
+
+
+
+For Cards : 
+
+Background: #00f4f3 #43fada #74fdbd #a1fe9f #cdfd84 #f9f871
+Text: #2e334a
+
+*/

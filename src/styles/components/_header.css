@@ -1,0 +1,19 @@
+.container__header {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+
+    display: flex;
+    flex-direction: column;
+
+    padding: var(--header-padding);
+
+    width: var(--header-width);
+}
+
+.container__header--logo{
+    width: var(--logo-width);
+}
+
+.container__header--navigation{
+    width: var(--navigation-width);
+}
