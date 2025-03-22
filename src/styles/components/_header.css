@@ -1,6 +1,6 @@
 .container__header {
-    background-color: var(--primary-color);
-    color: var(--secondary-color);
+    background-color: var(--nav-color);
+    color: var(--nav-text-color);
 
     display: flex;
     flex-direction: column;
@@ -8,12 +8,20 @@
     padding: var(--header-padding);
 
     width: var(--header-width);
+
+    gap: 5rem;
 }
 
-.container__header--logo{
-    width: var(--logo-width);
+.container__header--logo {}
+
+.container__header--navigation {}
+
+.container__header--navigation-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
 }
 
-.container__header--navigation{
-    width: var(--navigation-width);
+.container__header--navigation-list li:hover {
+    text-decoration: underline;
 }

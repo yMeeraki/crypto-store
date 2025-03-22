@@ -8,3 +8,5 @@
 /* Componentss */
 @import "./src/styles/components/_container.css";
 @import "./src/styles/components/_header.css";
+@import "./src/styles/components/_main-content.css";
+@import "./src/styles/components/_card.css";

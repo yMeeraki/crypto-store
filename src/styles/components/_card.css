@@ -1,0 +1,23 @@
+.products__card{
+background-color: aqua;
+width: 30rem;
+height: 30rem;
+}
+
+.products__card-inner{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.products__card--card-face{
+
+}
+
+.card-face-front{
+
+}
+
+.card-face-back{
+
+}

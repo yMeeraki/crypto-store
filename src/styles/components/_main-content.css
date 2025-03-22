@@ -1,0 +1,26 @@
+.container__main-content {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 2rem;
+
+    padding: var(--main-content-padding);
+
+    text-align: center;
+
+    width: var(--main-content-width);
+
+    background-color: var(--background-color);
+    color: var(--main-heading-color);
+}
+
+.container__main-content--headings {}
+
+.container__main-content--products {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 2rem;
+}
+

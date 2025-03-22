@@ -102,4 +102,13 @@ html{
 
 body{
     font-size: var(--base-font-size);
+    font-family: var(--primary-font-family);
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
 }

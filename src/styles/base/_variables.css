@@ -1,33 +1,34 @@
 :root {
+    /* Fonts */
+    --primary-font-family: "Poppins", sans-serif;
 
-    
     --base-font-percentage: 62.5%;
     --base-font-size: 1.6rem;
 
     /* Color Pallete */
-    --primary-color: #101c2d;
-    --secondary-color: #fff;
+    --nav-color: #00475f;
+    --nav-text-color: #fff;
+
+    --background-color: #101c2d;
+    --main-heading-color: #fff;
+
+    --card-color-1: #00f4f3;
+    --card-color-2: #43fada;
+    --card-color-3: #74fdbd;
+    --card-color-4: #a1fe9f;
+    --card-color-5: #cdfd84;
+    --card-color-6: #f9f871;
+    --card-text-color: #101c2d;
 
     /* Container */
-    --header-width:20%;
-    --main-content-width:80%;
+    --header-width: 20%;
+    --main-content-width: 80%;
 
     /* Header */
     --header-padding: 4rem;
-    --logo-width: 34%;
-    --navigation-width:66%;
+    --logo-height: 20%;
+    --navigation-heigth: 80%;
+
+    /* Main Content */
+    --main-content-padding: 2rem;
 }
-
-
-/* 
-Primary Background: 
-#101c2d
-
-
-
-For Cards : 
-
-Background: #00f4f3 #43fada #74fdbd #a1fe9f #cdfd84 #f9f871
-Text: #2e334a
-
-*/
