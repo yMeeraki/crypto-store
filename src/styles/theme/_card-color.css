@@ -1,0 +1,41 @@
+.card--card-color-one {
+    background-color: var(--card-color-1);
+    color: var(--card-text-color);
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+}
+
+.card--card-color-two {
+    background-color: var(--card-color-2);
+    color: var(--card-text-color);
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+}
+
+.card--card-color-three {
+    background-color: var(--card-color-3);
+    color: var(--card-text-color);
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+}
+
+.card--card-color-four {
+    background-color: var(--card-color-4);
+    color: var(--card-text-color);
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+}
+
+.card--card-color-five {
+    background-color: var(--card-color-5);
+    color: var(--card-text-color);
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+}
+
+.card--card-color-six {
+    background-color: var(--card-color-6);
+    color: var(--card-text-color);
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+}

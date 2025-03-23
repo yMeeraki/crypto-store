@@ -1,0 +1,13 @@
+.container__header--navigation-list li:hover {
+    text-decoration: underline;
+}
+
+
+.products__card:hover .products__card-inner {
+    transform: rotateY(180deg);
+}
+
+.btn:hover {
+    background-color: var(--background-color);
+    color: var(--main-heading-color);
+}

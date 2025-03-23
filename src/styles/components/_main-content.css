@@ -5,7 +5,7 @@
 
     gap: 2rem;
 
-    padding: var(--main-content-padding);
+    padding-top: var(--main-content-padding);
 
     text-align: center;
 
@@ -21,6 +21,7 @@
     display: flex;
     flex-wrap: wrap;
 
+    place-content: center;
+
     gap: 2rem;
 }
-

@@ -6,7 +6,7 @@
     --base-font-size: 1.6rem;
 
     /* Color Pallete */
-    --nav-color: #00475f;
+    --border-color: #00475f;
     --nav-text-color: #fff;
 
     --background-color: #101c2d;
@@ -30,5 +30,17 @@
     --navigation-heigth: 80%;
 
     /* Main Content */
-    --main-content-padding: 2rem;
+    --main-content-padding: 3rem;
+
+    /* Card */
+    --card-height: 30rem;
+    --card-width: 30rem;
+    --card-font-family:"Space Mono",  monospace;
+    --card-font-size:1.5rem;
+    --card-font-weight:900;
+    --border-radius:1.2rem;
+    --card-perspective:100rem;
+
+    /* Button  */
+    --btn-padding:.5rem;
 }

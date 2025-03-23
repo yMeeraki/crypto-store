@@ -12,7 +12,7 @@ html {
     -moz-text-size-adjust: none;
     -webkit-text-size-adjust: none;
     text-size-adjust: none;
-    
+
 }
 
 
@@ -96,19 +96,19 @@ textarea:not([rows]) {
 
 
 /*  */
-html{
+html {
     font-size: var(--base-font-percentage);
 }
 
-body{
+body {
     font-size: var(--base-font-size);
     font-family: var(--primary-font-family);
 }
 
-li{
+li {
     list-style: none;
 }
 
-a{
+a {
     text-decoration: none;
 }
