@@ -30,17 +30,18 @@
 @media screen and (max-width: 480px) {
     .container__header {
         flex-direction: row;
-        gap: 1rem;
+        gap: .1rem;
         width: var(--header-responsive-width);
 
+        padding: 1rem;
         border-bottom: 5px dotted var(--border-color);
         border-right: none;
     }
 
     .container__header--navigation-list {
-
+ 
         flex-direction: row;
-        gap: .2rem;
+        gap: .01rem;
     }
 }
 

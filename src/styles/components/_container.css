@@ -1,18 +1,21 @@
 .container {
    display: flex;
+   background-color: var(--background-color);
+  
 }
 
 
 @media screen and (max-width: 480px) {
    .container {
       flex-direction: column;
-      width: 100%;
+      
+     
    }
 }
 
 @media screen and (max-width: 768px) {
    .container {
       flex-direction: column;
-      width: 100%;
+   
    }
 }
