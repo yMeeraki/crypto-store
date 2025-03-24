@@ -40,6 +40,6 @@
     .container__header--navigation-list {
        
         flex-direction: row;
-        gap: 1rem;
+        gap: 5rem;
     }
 }
