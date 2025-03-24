@@ -25,3 +25,9 @@
 
     gap: 2rem;
 }
+
+@media screen and (max-width: 700px) {
+    .container__main-content {
+        width: var(--main-content-responsive-width);
+    }
+}
