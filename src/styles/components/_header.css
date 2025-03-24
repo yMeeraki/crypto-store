@@ -27,7 +27,27 @@
     gap: 2rem;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 480px) {
+    .container__header {
+        flex-direction: row;
+        gap: 1rem;
+        width: var(--header-responsive-width);
+
+        border-bottom: 5px dotted var(--border-color);
+        border-right: none;
+    }
+
+    .container__header--navigation-list {
+
+        flex-direction: row;
+        gap: .2rem;
+    }
+}
+
+
+
+
+@media screen and (max-width: 768px) {
     .container__header {
         flex-direction: row;
         gap: 5rem;
@@ -38,7 +58,7 @@
     }
 
     .container__header--navigation-list {
-       
+
         flex-direction: row;
         gap: 5rem;
     }
